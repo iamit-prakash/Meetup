@@ -68,6 +68,7 @@ const Meetups = () => {
                   src={meetup.imageUrl}
                   className="card-img-top"
                   alt={meetup.title}
+                  style={{ height: "250px", objectFit: "cover" }}
                 />
 
                 <div className="card-body">
