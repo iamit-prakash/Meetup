@@ -7,7 +7,7 @@ const Details = () => {
     const {id} = useParams()
 console.log(id)
 
-const { data, loading, error } = useFetch(`http://localhost:3000/meetups/id/${id}`)
+const { data, loading, error } = useFetch(`https://meetup-neon.vercel.app/meetups/id/${id}`)
 
   if (loading) return <p>Loading...</p>
   if (error) return <p>Error...</p>

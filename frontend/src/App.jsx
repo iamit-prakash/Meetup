@@ -9,7 +9,7 @@ const Meetups = () => {
   const [eventFilter, setEventFilter] = useState("All")
 
   const { data, loading, error } = useFetch(
-    "http://localhost:3000/meetups"
+    "https://meetup-neon.vercel.app/meetups"
   )
 
   if (loading) return <p>Loading...</p>
