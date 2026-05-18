@@ -3,8 +3,7 @@ Meetup Event Management App 🎉
 A responsive Meetup Event web application where users can explore different events, filter them, search by title/tags, and view complete event details.
 
 🚀 Live Demo
-
-🌐 https://meetup-65y4.vercel.app
+https://meetup-65y4.vercel.app/
 
 📌 Features
 🔍 Search events by title and tags
