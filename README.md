@@ -29,18 +29,18 @@ Home Page
 Details page
 <img width="1920" height="1080" alt="Screenshot (1195)" src="https://github.com/user-attachments/assets/bbfc1853-720a-42bb-9ed9-95aa9b1120cd" />
 
-#⚙️ Installation & Setup
+# ⚙️ Installation & Setup
  ### Clone the repository
-git clone <your-github-repo-link>
+ git clone <your-github-repo-link>
 
  ### Move into project folder
-cd meetup-app
+ cd meetup-app
 
  ### Install dependencies
-npm install
+ npm install
 
  ### Start development server
-npm run dev
+ npm run dev
 
 
 ## 👨‍💻Author
